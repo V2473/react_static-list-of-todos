@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css","User.css"],"names":[],"mappings":"AAAA,KACE,eACF,CCFA,MACE,SACF","file":"main.7e4ba959.chunk.css","sourcesContent":[".App {\n  text-align: left;\n}\n",".user {\r\n  color: red;\r\n}\r\n"]}
